@@ -8,7 +8,7 @@ The 'Mid-term project in Computer Vision' is carried out by Nguyen Minh Duc, Duo
 # Dataset
 - Training data (DFDC) can be found in [Deepkfake Detection Challenge](https://www.kaggle.com/competitions/deepfake-detection-challenge) contaring 400 Gb videos. However, data we directedly used is extracted from this dataset, you can find this in the [link](https://www.kaggle.com/competitions/deepfake-detection-challenge/discussion/134420)
 
-- Testing Data: our data is collected from youtube, tiktok, ...
+- Testing Data: our data is collected from Youtube, Tiktok, ...
 
 # Model
 - Mobiletnet SSD in face detection phase
