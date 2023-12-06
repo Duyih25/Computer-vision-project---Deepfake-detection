@@ -1,5 +1,5 @@
 # Deepfake Detection
-The 'Mid-term project in Computer Science' is carried out by Nguyen Minh Duc, Duong Duc Duy, Bui Thuy Duong, Nguyen Huynh Tra My, Nguyen Truong Thanh **Ensemble VIT and Efficientnet-B1**
+The 'Mid-term project in Computer Vision' is carried out by Nguyen Minh Duc, Duong Duc Duy, Bui Thuy Duong, Nguyen Huynh Tra My, Nguyen Truong Thanh **Ensemble VIT and Efficientnet-B1**
 
 # Contributions
 - A video dataset containing 100 videos (50 real and 50 fake)
