@@ -1,6 +1,7 @@
 # Deepfake Detection
 The 'Mid-term project in Computer Vision' :  **Ensemble VIT and Efficientnet-B1 in Deepfake Detection**
-Team members: Nguyen Minh Duc, Duong Duc Duy, Bui Thuy Duong, Nguyen Huynh Tra My, Nguyen Truong Thanh
+
+**Team members** : Nguyen Minh Duc, Duong Duc Duy, Bui Thuy Duong, Nguyen Huynh Tra My, Nguyen Truong Thanh
 
 ## Contributions
 - A video dataset containing 100 videos (50 real and 50 fake)
